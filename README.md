@@ -8,9 +8,9 @@
 
 I am a learner of the **ALX ProDev Backend Program**, currently sharpening my skills in backend development and full-stack engineering.  
 
-I started software engineering because of my love for making things and seeing them work. Combined with my interest in computers, this has led me to pursue a career in technology.  
+I started software engineering because of my love for making things and seeing them work. Combining my interest in computers with my passion for technology has led me to pursue a career in this field.  
 
-My aim is to grow into a software engineer who builds tools that combine technical excellence with real-world usability.  
+My goal is to become a software engineer who develops tools that strike a balance between technical excellence and real-world usability.  
 
 That’s why I enjoy working on projects that simplify processes, improve efficiency, and bring ease to people’s everyday lives.
 
